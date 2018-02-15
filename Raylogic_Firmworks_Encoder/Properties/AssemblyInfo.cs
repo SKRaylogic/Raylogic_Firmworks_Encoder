@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Raylogic_Firmworks_Encoder")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Firmware Encoding Software")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Raylogic Control Systems Pvt. Ltd.")]
 [assembly: AssemblyProduct("Raylogic_Firmworks_Encoder")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
